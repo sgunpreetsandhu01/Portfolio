@@ -1,0 +1,89 @@
+.icon
+{
+    height: 120px;
+    width: 120px;
+}
+.head
+{
+    margin-top: 80px;
+    margin-left: 4%;
+    margin-right: 5%;
+    padding-left: 0;
+    padding-right: 0;
+   color: white;
+   text-align: center;
+   font-family: 'Titillium Web', sans-serif;
+   
+}
+p.head
+{
+    color: red;
+}
+.image
+{
+    height: 240px;
+    width: 230px;
+    border-radius: 50%;
+}
+#dec,#ski
+{
+    text-decoration: underline olive;
+}
+.organization
+{
+    color: black;
+    border-top: 50px;
+    padding-top: 20px;
+    text-align: center;
+    margin-left: 9%;
+    margin-right: 7%;
+    font-family: 'Titillium Web', sans-serif;
+}
+.frame
+{
+    height: 130px;
+    width: 130px;
+}
+
+.logo
+{ 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:250px;
+    width: 250px;
+    border-radius: 100%;
+    border: none;
+}
+.chapter
+{ 
+    font-weight: bold;
+    text-align: center;
+}
+a#linkedin
+{ 
+    color:#0077b5;
+    padding-bottom: 20px;
+}
+a#instagram
+{
+    color: rgb(221, 14, 169);
+}
+a#github
+{
+    color: black;
+    padding-bottom: 20px;
+}
+a:link
+{
+    color: white;
+}
+a#linkedin:hover,a#instagram:hover,a#github:hover
+{ 
+    color:white;
+}
+
+.skills 
+{
+    color: black;
+    padding-top: 50px;
+}
